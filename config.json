@@ -1,0 +1,19 @@
+{
+  "remote_dir": "/transcript",
+  "poll_interval": 30,
+  "stable_seconds": 60,
+  "model": "small",
+  "language": "it",
+  "device": "auto",
+  "temp_dir": "temp",
+  "state_dir": ".state",
+  "model_dir": "models",
+  "ffmpeg": "ffmpeg",
+  "megacmd_client": null,
+  "command_timeout": 60,
+  "transfer_timeout": 3600,
+  "ffmpeg_timeout": 3600,
+  "retry_initial": 30,
+  "retry_max": 900,
+  "log_level": "INFO"
+}

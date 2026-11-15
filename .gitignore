@@ -1,0 +1,6 @@
+temp/
+.venv/
+.state/
+models/
+__pycache__/
+*.py[cod]
