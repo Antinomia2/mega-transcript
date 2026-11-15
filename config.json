@@ -1,10 +1,10 @@
 {
   "remote_dir": "/transcript",
   "poll_interval": 30,
-  "stable_seconds": 60,
-  "model": "small",
+  "stable_seconds": 10,
+  "model": "large-v3",
   "language": "it",
-  "device": "auto",
+  "device": "cuda",
   "temp_dir": "temp",
   "state_dir": ".state",
   "model_dir": "models",
